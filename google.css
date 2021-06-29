@@ -45,7 +45,7 @@
         }
         
         section header ul li button {
-            background: #0066cc;
+            background: #1a75ff;
             padding: 10px 25px;
             font-size: 14px;
             font-weight: 700;
@@ -59,7 +59,7 @@
         }
         
         section header ul li button:hover {
-            background: #0080ff;
+            background: #66a3ff;
         }
         
         section header ul li button a:hover {
@@ -162,6 +162,7 @@
         section .footer .row.row2 {
             display: flex;
             justify-content: space-between;
+            border-top: 1px solid #d9d9d9;
         }
         
         section .footer .row.row1 ul {
